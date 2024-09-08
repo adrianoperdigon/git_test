@@ -1,1 +1,2 @@
 Some text here
+Testing new commit without -m flag
